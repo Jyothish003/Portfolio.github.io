@@ -1,2 +1,2 @@
 # Portfolio.github.io
-student portfolio
+Static student portfolio
